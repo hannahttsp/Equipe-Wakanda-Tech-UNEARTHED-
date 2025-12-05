@@ -21,5 +21,4 @@ Estamos desenvolvendo uma solução para aprimorar o monitoramento da temperatur
 Você pode ver mais detalhes na pasta `projeto_inovacao`.
 
 ## 📸 Galeria
-![Nosso Robô](imagens/nome-da-sua-foto.jpg)
 
